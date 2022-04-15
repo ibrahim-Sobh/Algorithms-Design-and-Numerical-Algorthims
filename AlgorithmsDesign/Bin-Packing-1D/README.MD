@@ -1,5 +1,3 @@
-
-Ibrahim Sobh -AIS
 Bin Packing Project ( 1 Dimensional )
 
 Common Techniques used in the project:
